@@ -1,0 +1,47 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+}
+
+ul
+{
+    list-style: none;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+navbar
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    background-color: white;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
+    padding: 0px 5%;
+}
+
+navbar ul
+{
+    display: flex;
+}
+
+navbar ul li a
+{
+    margin: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #505050;
+    font-size: 16px;
+    font-weight: 650;
+}
+
+navbar ul li a:hover
+{
+    background-color: aqua;
+    c
+}
